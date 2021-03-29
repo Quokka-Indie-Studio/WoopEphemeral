@@ -1,2 +1,11 @@
 # WoopEphemeral
-![_light-246525-bikette](https://user-images.githubusercontent.com/56340359/112798459-35009e00-906d-11eb-92bb-c6da87b1fab6.jpg)
+This project was completed in 3 months by 4 programers (it's us !). In this game you have to finish the levels as quickly as possible. To do that, you will have some tools at your disposal :
+your legs to move, jump and walljump 
+//gif ici?
+fire your right fist to trigger interuptors or destroy walls !
+//pareil?
+use a grappling hook and a dash to defy the laws of gravity
+//again
+
+If you want to see more :
+//lien trailer youtube
